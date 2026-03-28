@@ -11,3 +11,4 @@ To build in the local environment appropriately, some are changed from the origi
 ## Reference
 
 - [Qiita article](https://qiita.com/msdsm/items/4661217ffbee2eee0663)
+- [msdsm/chrome-extension-ts](https://github.com/msdsm/chrome-extension-ts)
